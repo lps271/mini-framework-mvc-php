@@ -1,2 +1,2 @@
 # mini-framework-mvc-php
-Montando um siistema com mvc.
+Montando um sistema com mvc...
