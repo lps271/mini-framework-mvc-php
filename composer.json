@@ -1,0 +1,15 @@
+{
+    "name": "lucas-pereira/mini-framework-mvc-php",
+    "authors": [
+        {
+            "name": "Lucas Pereira",
+            "email": "lpslucas27@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
